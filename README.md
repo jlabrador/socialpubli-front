@@ -16,7 +16,14 @@ Requerimientos
 Instalación
 ------------
 
-Ejecutar en el directorio raíz de la aplicación el siguiente comando:
+Instalar las dependencias del proyecto:
+
+```bash
+$ npm install
+```
+
+
+Ejecutar el entorno de desarrollo
 
 ```bash
 $ npm run dev
